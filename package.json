@@ -25,6 +25,7 @@
   "homepage": "https://github.com/LazySamir/workout-planner#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "jasmine-node": "^1.16.2"
+    "jasmine": "^3.2.0",
+    "jasmine-console-reporter": "^3.1.0"
   }
 }
